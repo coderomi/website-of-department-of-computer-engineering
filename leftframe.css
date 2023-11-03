@@ -1,0 +1,16 @@
+.list{
+	position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    font-size: 19px;
+    color: black;
+    font-style: bold;
+    background-color: rgba(0, 164, 234, 0.7);
+}
+.list:hover{
+	background-color: rgba(255,136,174,0.5);
+	color:  rgba(0,132,0,1);
+}

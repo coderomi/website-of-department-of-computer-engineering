@@ -1,0 +1,25 @@
+div{
+text-align : justify;
+text-justify : inter-word;
+}
+td{
+	text-align: center;
+	font-size: 18px;
+}
+table{
+	width: 50%;
+}
+.p{
+	font-family: times new roman;
+	font-size: 19px;
+
+}
+.h{
+	font-family: times new roman;
+	font-size: 18px;
+}
+.i{
+	font-family: times new roman;
+	font-size: 18px;
+}
+}

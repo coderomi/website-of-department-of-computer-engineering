@@ -1,0 +1,88 @@
+body{
+	background-color: rgba(112,112,112,1);
+}
+
+ul li{
+
+	list-style-type: none;
+	display: inline-block;
+	padding-right: 10px;
+	padding-left: 5px;
+	
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 0px;
+	color:rgba(0,0,0,0.9);
+	font-size: 20px;
+	float: left;
+	margin-right:10px; 
+	border:1px solid yellow;
+	background-color: rgba(182,144,78,0.8);
+	border-radius: 10px;
+}
+ul li:hover{
+	background-color: rgba(255,255,255,1);
+	color:  rgba(255,0,128,0.9);;
+}
+ul li:click {
+	background-color:  rgba(0,255,255,1);
+	color:rgba(0,128,0,1);
+}
+.glrysecy{
+	text-align: center;
+}
+.imgs{
+	border:2px dotted white;
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: white;
+
+}
+ .imgs{
+	border:2px dashed pink;
+	margin-right: 5px;
+	margin-left: 5px;
+	margin-top: 10px;
+	margin-bottom: 5px;
+	border-radius: 25px;
+}
+footer{
+	background-color: rgba(0,0,0,0.7);
+	border:4px solid black;
+	margin-top: 400px;
+	padding-left: 15px;
+}
+h2{boorder:1px dashed white;
+	width: 20%;
+	padding-left: 10px;
+	color: white;
+
+}
+.fa{boorder:1px white solid;
+	color: white;
+	font-size: 20px;
+	margin-left: 0px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+.ast{color: red;
+}
+.box{
+	border: 1px solid black;
+	font-size: 20px;
+	width: 300px;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	padding-left: 15px;
+	color: rgba(0, 107, 215, 1);
+	font-weight: bold;
+	background-color: rgba(255, 102, 179, 0.8);
+	border-top: 3px solid black;
+	border-left: 3px solid black;
+	border-bottom-left-radius: 15px 
+	
+
+
+
+}
